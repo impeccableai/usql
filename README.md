@@ -1,6 +1,8 @@
 # usql
 Unofficial Docker image for [github.com/xo/usql](https://github.com/xo/usql)
 
+Built image is available at dockerhub: [wookeshi/usql](https://hub.docker.com/r/wookeshi/usql)
+
 ## Usage
 
 This image offers 2 ways to define database connection string.
